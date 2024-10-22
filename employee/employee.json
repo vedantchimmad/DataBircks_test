@@ -1,0 +1,71 @@
+{
+  "fields": [
+    {
+      "metadata": {},
+      "name": "EMPLOYEE_ID",
+      "nullable": true,
+      "type": "int"
+    },
+    {
+      "metadata": {},
+      "name": "FIRST_NAME",
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "metadata": {},
+      "name": "LAST_NAME",
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "metadata": {},
+      "name": "EMAIL",
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "metadata": {},
+      "name": "PHONE_NUMBER",
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "metadata": {},
+      "name": "HIRE_DATE",
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "metadata": {},
+      "name": "JOB_ID",
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "metadata": {},
+      "name": "SALARY",
+      "nullable": true,
+      "type": "int"
+    },
+    {
+      "metadata": {},
+      "name": "COMMISSION_PCT",
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "metadata": {},
+      "name": "MANAGER_ID",
+      "nullable": true,
+      "type": "int"
+    },
+    {
+      "metadata": {},
+      "name": "DEPARTMENT_ID",
+      "nullable": true,
+      "type": "int"
+    }
+  ],
+  "type": "struct"
+}
